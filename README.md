@@ -13,8 +13,8 @@ Currently i have included commonly used language list only, feature request for 
 ## Installation
 
 ```bash
-  git 
-  cd OCR-django-app
+  git clone https://github.com/bitlearners/OCR-text-to-image-django.git
+  cd OCR-text-to-image-django
   pip install -r requirements
   python manage.py runserver 
   # open localhost:8000  url in browser 
